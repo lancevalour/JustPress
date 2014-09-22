@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Just Press</string>
+    
+    <string name="country_prompt">Choose an item</string>
+    <string-array name="type_arrays">
+        <item>Word</item>
+        <item>Number</item>
+      
+    </string-array>
+
+</resources>
